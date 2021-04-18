@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="Ben_Baker_Dice_Roller_Session_7_Portfolio_Exercise.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ben_Baker_Dice_Roller_Session_7_Portfolio_Exercise">
+
+</Application>
